@@ -1,0 +1,7 @@
+C:\Users\Paulp\source\repos\Assessment 3 - Working With Files and ADO.net\Assessment 3 - Working With Files and ADO.net\bin\Debug\Assessment 3 - Working With Files and ADO.net.exe.config
+C:\Users\Paulp\source\repos\Assessment 3 - Working With Files and ADO.net\Assessment 3 - Working With Files and ADO.net\bin\Debug\Assessment 3 - Working With Files and ADO.net.exe
+C:\Users\Paulp\source\repos\Assessment 3 - Working With Files and ADO.net\Assessment 3 - Working With Files and ADO.net\bin\Debug\Assessment 3 - Working With Files and ADO.net.pdb
+C:\Users\Paulp\source\repos\Assessment 3 - Working With Files and ADO.net\Assessment 3 - Working With Files and ADO.net\obj\Debug\Assessment 3 - Working With Files and ADO.net.csprojAssemblyReference.cache
+C:\Users\Paulp\source\repos\Assessment 3 - Working With Files and ADO.net\Assessment 3 - Working With Files and ADO.net\obj\Debug\Assessment 3 - Working With Files and ADO.net.csproj.CoreCompileInputs.cache
+C:\Users\Paulp\source\repos\Assessment 3 - Working With Files and ADO.net\Assessment 3 - Working With Files and ADO.net\obj\Debug\Assessment 3 - Working With Files and ADO.net.exe
+C:\Users\Paulp\source\repos\Assessment 3 - Working With Files and ADO.net\Assessment 3 - Working With Files and ADO.net\obj\Debug\Assessment 3 - Working With Files and ADO.net.pdb
